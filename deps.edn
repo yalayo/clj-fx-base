@@ -1,0 +1,3 @@
+{:deps {org.clojure/clojure {:mvn/version "1.10.2"}
+        cljfx/cljfx {:mvn/version "1.7.13"}}
+ :paths ["src" "classes"]}
